@@ -6,7 +6,7 @@
 
 - 🔭 I’m Computer Science graduate student **at Syracuse University**
 
-- 🌱 I’m currently learning **Cloud Development**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👯 Checkout my work on [LinkedIn profile scrapper](https://github.com/shaunak-deo/LinkedIn-Profile-Scraper-NodeJS-Selenium-React)
 
