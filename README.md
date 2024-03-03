@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shaunak-deo?tab=repositories](https://github.com/shaunak-deo?tab=repositories)
 
-- 💬 Ask me about **Cloud and Data**
+- 💬 Ask me about **Cloud and Python**
 
 - 📫 How to reach me **sdeo01@syr.edu**
 
