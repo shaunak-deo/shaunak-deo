@@ -6,7 +6,7 @@
 
 - 🎓 Computer Science graduate student at **Syracuse University** 
 
-- ☁️ Currently pursuing **AWS Certified Solutions Architect - Associate**
+- ☁️ Currently pursuing [**AWS Certified Solutions Architect - Associate**](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
 - 🤖 Checkout my work on [GomukuAI](https://github.com/shaunak-deo/GomokuAI)
 
