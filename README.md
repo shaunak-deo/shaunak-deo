@@ -10,8 +10,6 @@
 
 - 🤖 Checkout my work on [GomukuAI](https://github.com/shaunak-deo/GomokuAI)
 
-- 👨‍💻 All of my projects are available at [https://github.com/shaunak-deo?tab=repositories](https://github.com/shaunak-deo?tab=repositories)
-
 - 📫 How to reach me **sdeo01@syr.edu**
   
 - 📅 Schedule a 30-minute meeting with me on [Calendly](https://calendly.com/shaunak-deo/30min).
