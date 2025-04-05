@@ -10,12 +10,8 @@
 
 - 🤖 Checkout my work on [GomukuAI](https://github.com/shaunak-deo/GomokuAI)
 
-- 📫 How to reach me **sdeo01@syr.edu**
+- 📫 How to reach me **shaunakdeo01@gmail.com**
   
-- 📅 Schedule a 30-minute meeting with me on [Calendly](https://calendly.com/shaunak-deo/30min).
-  
-- 🚀 Know about my experiences [https://shaunak-deo.github.io/assets/Shaunak_Deo_Resume.pdf](https://shaunak-deo.github.io/assets/Shaunak_Deo_Resume.pdf)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
